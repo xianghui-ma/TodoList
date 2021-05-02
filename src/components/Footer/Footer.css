@@ -1,0 +1,12 @@
+/* footer */
+footer{
+    font-size: 14px;
+    line-height: 35px;
+}
+footer button{
+    float: right;
+    background-color: orange;
+    border-radius: 5px;
+    line-height: 35px;
+    padding: 0 10px;
+}

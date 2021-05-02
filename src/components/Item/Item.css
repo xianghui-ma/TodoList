@@ -1,0 +1,19 @@
+/* main */
+main{
+    margin: 10px 0;
+}
+main .item{
+    font-size: 18px;
+    line-height: 36px;
+}
+main .item:hover{
+    background-color: #eee;
+}
+main .item .delete{
+    float: right;
+    margin: 4px 0;
+    height: 28px;
+    width: 72px;
+    background-color: orange;
+    border-radius: 5px;
+}
